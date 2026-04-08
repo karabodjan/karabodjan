@@ -1,3 +1,6 @@
+<img width="1584" height="396" alt="Bannière LinkedIn" src="https://github.com/user-attachments/assets/8acc5bf5-cb12-4682-93d5-ff64cbe81e86" />
+
+
 ## Hi there 👋
 
 <!--
