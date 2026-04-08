@@ -6,8 +6,6 @@
 
 I'm [Karabodjan](https://www.linkedin.com/in/celso-barros-017ba1339/), Fullstack Developer Passionate about software architecture, technological innovation and game dev.
 
-I speak English, French, and Portuguese.
-
 Currently, I'm building **Oralis**, an ambitious language-learning application designed to make learning more intuitive and immersive.
 
 
