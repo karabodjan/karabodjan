@@ -2,7 +2,7 @@
 
 
 
-# # Hey there! 
+# # Hey there! <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80"> 
 
 I'm [Karabodjan](https://www.linkedin.com/in/celso-barros-017ba1339/), Fullstack Developer Passionate about software architecture, technological innovation and game dev.
 
