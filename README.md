@@ -43,13 +43,21 @@ Currently, I'm building **Oralis**, an ambitious language-learning application d
 
 
 
-## ⚡ Fun fact
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" align="center" /> Fun fact
 
-🌍 I speak English 🇬🇧 | French 🇫🇷 | Portuguese 🇵🇹  
+<p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" align="center" /> I speak English 🇬🇧 | French 🇫🇷 | Portuguese 🇵🇹
+</p>
 
-🎮 Hollow Knight is my favorite game  
+<p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" align="center" /> Hollow Knight is my favorite game
+</p>
 
-🐉 Dragon Ball Z is my favorite anime  
+<p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" align="center" /> Dragon Ball Z is my favorite anime
+</p>
 
-🏋️‍♂️ Hobbies: Gym, anime, gaming, and learning new things
+<p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Dark%20Skin%20Tone.png" width="25" align="center" /> <b>Hobbies:</b> Gym, anime, gaming, and learning new things
+</p>
 
